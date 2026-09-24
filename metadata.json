@@ -1,0 +1,6 @@
+{
+  "name": "SARANG R N — Cinema Portfolio",
+  "description": "An interactive 3D cinema title sequence and disassembled film object portfolio for Sarang R N — Director, Software Developer, Machine Learning Engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
